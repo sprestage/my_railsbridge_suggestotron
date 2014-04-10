@@ -12,6 +12,8 @@ Suggestotron::Application.routes.draw do
   # You can have the root of your site routed with "root"
   root 'topics#index'
 
+  get '/about' => 'static#about'
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
