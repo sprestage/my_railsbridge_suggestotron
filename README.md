@@ -1,28 +1,13 @@
-== README
+RailsBridge Project
+=======
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p>This is the basic project designed for RailsBridge.</p>
 
-Things you may want to cover:
+<p>This is a rails application with two models, topics and votes.  An association has been created between these two models, where topics have many votes and votes belong to a single topic.</p>
 
-* Ruby version
+<p>There is an up vote button and a down vote button.  The topics are sorted by the highest number of votes.</p>
 
-* System dependencies
+<p>I have checked in each little step, so it is easy to see how things progress.  The downvote button, the sorting by votes, and the about page are all optional extra credit if there is time to spare at the end of class.  The final extra credit still needs to be implemented, but I'll be taking the time to prepare a lightning talk alongside it, so stay tuned for the implementation of Devise.</p>
 
-* Configuration
+<p></p>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
