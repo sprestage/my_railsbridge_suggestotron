@@ -1,13 +1,10 @@
 RailsBridge - Intro to Rails (a.k.a. "Suggestotron") Project
 =======
 
-<p>This is the basic introduction to rails project designed by RailsBridge.</p>
+This is the basic introduction to rails project designed by RailsBridge.
 
-<p>This is a rails application with two models, topics and votes.  An association has been created between these two models, where topics have many votes and votes belong to a single topic.</p>
+This is a rails application with two models, topics and votes.  An association has been created between these two models, where topics have many votes and votes belong to a single topic.
 
-<p>There is an up vote button and a down vote button.  The topics are sorted by the highest number of votes.</p>
+There is an up vote button and a down vote button.  The topics are sorted by the highest number of votes.
 
-<p>I have checked in each little step, so it is easy to see how things progress.  The downvote button, the sorting by votes, and the about page are all optional extra credit if there is time to spare at the end of class.  The final extra credit still needs to be implemented, but I'll be taking the time to prepare a lightning talk alongside it, so stay tuned for the implementation of Devise.</p>
-
-<p></p>
-
+I have checked in each little step, so it is easy to see how things progress.  The downvote button, the sorting by votes, and the about page are all optional extra credit if there is time to spare at the end of class.  The final extra credit still needs to be implemented, but I'll be taking the time to prepare a lightning talk alongside it, so stay tuned for the implementation of Devise.
