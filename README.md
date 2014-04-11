@@ -1,7 +1,7 @@
-RailsBridge Project
+RailsBridge - Intro to Rails (a.k.a. "Suggestotron") Project
 =======
 
-<p>This is the basic project designed for RailsBridge.</p>
+<p>This is the basic introduction to rails project designed by RailsBridge.</p>
 
 <p>This is a rails application with two models, topics and votes.  An association has been created between these two models, where topics have many votes and votes belong to a single topic.</p>
 
