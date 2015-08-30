@@ -1,3 +1,6 @@
+[![Dependency Status](https://gemnasium.com/sprestage/my_railsbridge_suggestotron.svg)](https://gemnasium.com/sprestage/my_railsbridge_suggestotron)
+
+
 RailsBridge - Intro to Rails (a.k.a. "Suggestotron") Project
 =======
 
